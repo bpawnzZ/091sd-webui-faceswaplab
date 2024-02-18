@@ -1,0 +1,5 @@
+numpy
+Pillow
+pydantic
+Requests
+safetensors>=0.3.1

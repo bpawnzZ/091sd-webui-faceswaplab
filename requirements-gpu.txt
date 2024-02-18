@@ -1,0 +1,11 @@
+cython
+ifnude
+insightface==0.7.3
+onnx>=1.14.0
+protobuf>=3.20.2
+opencv-python
+pandas
+pydantic
+safetensors
+onnxruntime>=1.15.0
+onnxruntime-gpu>=1.15.0
